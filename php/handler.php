@@ -8,15 +8,13 @@ if($_POST){
     $email = $_POST['form_email'];
     $message = $_POST['form_msg'];
 
-//send email
-   if(mail(("neilpaveling@hotmail.com", "Email from:".$name, $email, $message);{
+	//send email
+   if(mail("neilpaveling@hotmail.com", "Email from:".$name, $email, $message)){
    		echo "success ";
     }
-   else
-     {
+   else{
        echo "Failure";
-     }
-   }
-
+    }
+ }
 
  ?>
