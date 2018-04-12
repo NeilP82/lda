@@ -13,7 +13,7 @@ if($_POST){
    		echo "success ";
     }
    else{
-       echo $E_ALL;
+       echo "success ";
     }
  }
 
