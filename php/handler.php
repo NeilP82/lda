@@ -21,7 +21,6 @@ $validator->field('comments')->maxLength(6000);
 
 
 
-$pp->sendEmailTo('neilpaveling@hotmail.com'); // ← Your email here
-
+$pp->sendEmailTo('cheryl.henshaw@learndesignapply.com'); // ← Your email here
 
 echo $pp->process($_POST);
