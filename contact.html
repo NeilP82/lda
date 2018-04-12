@@ -102,19 +102,19 @@
 						<div class="field">  				
   							<label class="label">Name</label>
   								<div class="control">
-    								<input class="input" type="text" placeholder="Enter Name" required>
+    								<input class="input" type="text" placeholder="Enter Name"  id="form_name" required>
   								</div>
 						</div>
 						<div class="field">
   							<label class="label">Email</label>
   								<div class="control">
-    								<input class="input" type="email" placeholder="Enter Email" required>    					
+    								<input class="input" type="email" placeholder="Enter Email" id="form_email" required>    					
   								</div>
 						</div>
 						<div class="field">
   							<label class="label">Message</label>
   								<div class="control">
-    								<textarea class="textarea" placeholder="Enter Your Message" required=""></textarea>
+    								<textarea class="textarea" placeholder="Enter Your Message" id="form_message" required=""></textarea>
   								</div>
 						</div>
 						<div class="field is-grouped">
@@ -211,12 +211,18 @@
 		            $btn.prop('orig_label',$btn.text());
 		            $btn.text('Sending ...');
 		        });
+
+		        var data = {
+				    name: $("#form_name").val(),
+				    email: $("#form_email").val(),
+				    message: $("#msg_text").val()
+				};
 				$.ajax({
               		type: "POST",
                 	url: 'php/handler.php',
-                	data: $form.serialize(),
+                	data: date,
                 	success: after_form_submitted,
-                	dataType: 'json'
+                	
 	            });
 				});
 			});
