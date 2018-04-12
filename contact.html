@@ -98,42 +98,49 @@
 			</div>
 			<div class="columns is-centered">
 				<div class="column is-6">
-			<div class="field">
-  				<form action="mailto:neilpaveling@hotmail.com" method="post" enctype="text/plain">
-  					<label class="label">Name</label>
-  					<div class="control">
-    					<input class="input" type="text" placeholder="Enter Name" required>
-  					</div>
+					<form id="reused_form">
+						<div class="field">  				
+  							<label class="label">Name</label>
+  								<div class="control">
+    								<input class="input" type="text" placeholder="Enter Name" required>
+  								</div>
+						</div>
+						<div class="field">
+  							<label class="label">Email</label>
+  								<div class="control">
+    								<input class="input" type="email" placeholder="Enter Email" required>    					
+  								</div>
+						</div>
+						<div class="field">
+  							<label class="label">Message</label>
+  								<div class="control">
+    								<textarea class="textarea" placeholder="Enter Your Message" required=""></textarea>
+  								</div>
+						</div>
+						<div class="field is-grouped">
+  							<div class="control">
+    							<button class="button is-link" type="submit">Send Email</button>
+  							</div>
+  						</div>
+					</form>
+				</div>
+			</div>	
+			<div class="columns is-centered">
+				<div class="column is-4">
+					<h2 class="title is-4" id="success_message" style="display: none;">
+						Success! Your Message was Sent Successfully.
+					</h2>
+				</div>
 			</div>
-
-			<div class="field">
-  				<label class="label">Email</label>
-  					<div class="control">
-    					<input class="input" type="email" placeholder="Enter Email" required>
-    					
-  					</div>
-  				<div id="warning" hidden>
-  					<p class="help is-danger" d>This email is invalid</p>
-  				</div>
+			<div class="columns is-centered">
+				<div class="column is-4">
+					<h2 class="title is-4" id="error_message" style="display: none;">
+						Sorry there was an error sending your form.
+					</h2>
+				</div>
 			</div>
-
-			<div class="field">
-  				<label class="label">Message</label>
-  				<div class="control">
-    				<textarea class="textarea" placeholder="Enter Your Message" required=""></textarea>
-  				</div>
-			</div>
-
-			<div class="field is-grouped">
-  				<div class="control">
-    				<button class="button is-link">Send Email</button>
-  				</div>
 		</div>
-	</form>
-</div>
-</div>
-</div>
-</section>
+	</section>
 
 		<section style="padding-top: 100px;">	
 			<nav class="navbar bottom">
@@ -153,7 +160,7 @@
 				  		</a>		
 				  	</div>
 				  		
-				   		<div class="navbar-end">
+				   	<div class="navbar-end">
 				   		<a class="navbar-item" href="contact.html#LearnMore">
 				  			<p class="bottom-nav-text">1-800-605-7614</p>
 				  		</a>
@@ -165,7 +172,54 @@
 			  	</div>
 			</nav>
 		</section>
-	
+		<script>
+			$(function(){
+			    function after_form_submitted(data){
+			        if(data.result == 'success'){
+			            $('form#reused_form').hide();
+			            $('#success_message').show();
+			            $('#error_message').hide();
+			        }
+			        else{
+			            $('#error_message').append('<ul></ul>');
+			            jQuery.each(data.errors,function(key,val){
+			                $('#error_message ul').append('<li>'+key+':'+val+'</li>');
+			            	});
+			            $('#success_message').hide();
+			            $('#error_message').show();
+            			//reverse the response on the button
+            			$('button[type="button"]', $form).each(function(){
+			                $btn = $(this);
+			                label = $btn.prop('orig_label');
+               				if(label) {
+			                    $btn.prop('type','submit' );
+			                    $btn.text(label);
+			                    $btn.prop('orig_label','');
+			                }
 
+            			});
+            		}//else
+            	}
+
+			$('#reused_form').submit(function(e){
+		        e.preventDefault();
+		        $form = $(this);
+		        //show some response on the button
+		        $('button[type="submit"]', $form).each(function(){
+		            $btn = $(this);
+		            $btn.prop('type','button' );
+		            $btn.prop('orig_label',$btn.text());
+		            $btn.text('Sending ...');
+		        });
+				$.ajax({
+              		type: "POST",
+                	url: 'handler.php',
+                	data: $form.serialize(),
+                	success: after_form_submitted,
+                	dataType: 'json'
+	            });
+				});
+			});
+		</script>
 	</body>
 </html>

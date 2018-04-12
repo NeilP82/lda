@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"l",
+				"link"
+			],
+			[
 				"the",
 				"thead"
 			],
@@ -66,10 +70,6 @@
 			[
 				"pad",
 				"padding-top"
-			],
-			[
-				"l",
-				"large"
 			],
 			[
 				"font-s",
@@ -416,75 +416,12 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 6399,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "services.html",
-			"settings":
-			{
-				"buffer_size": 6723,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "fundedPrograms.html",
-			"settings":
-			{
-				"buffer_size": 5897,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "ourTeam.html",
-			"settings":
-			{
-				"buffer_size": 2733,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 2734,
+				"buffer_size": 6878,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/script.js",
-			"settings":
-			{
-				"buffer_size": 765,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "document.addEventListener('DOMContentLoaded', func"
-			}
-		},
-		{
-			"file": "style/style.css",
-			"settings":
-			{
-				"buffer_size": 2363,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "style/bulma.css",
-			"settings":
-			{
-				"buffer_size": 223188,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -529,14 +466,20 @@
 	"expanded_folders":
 	[
 		"/C/Users/npaveling/Documents/LDA site/lda",
-		"/C/Users/npaveling/Documents/LDA site/lda/css",
-		"/C/Users/npaveling/Documents/LDA site/lda/fonts",
-		"/C/Users/npaveling/Documents/LDA site/lda/img",
-		"/C/Users/npaveling/Documents/LDA site/lda/js",
-		"/C/Users/npaveling/Documents/LDA site/lda/Logo"
+		"/C/Users/npaveling/Documents/LDA site/lda/php"
 	],
 	"file_history":
 	[
+		"/C/Users/npaveling/Documents/LDA site/lda/contact.html",
+		"/C/Users/npaveling/Documents/LDA site/lda/ourTeam.html",
+		"/C/Users/npaveling/Documents/LDA site/lda/fundedPrograms.html",
+		"/C/Users/npaveling/Documents/LDA site/lda/services.html",
+		"/C/Users/npaveling/Documents/LDA site/lda/index.html",
+		"/C/Users/npaveling/Documents/LDA site/lda/php/handler.php",
+		"/C/Users/npaveling/Documents/LDA site/lda/handler.php",
+		"/C/Users/npaveling/Documents/LDA site/lda/js/script.js",
+		"/C/Users/npaveling/Documents/LDA site/lda/style/style.css",
+		"/C/Users/npaveling/Documents/LDA site/lda/style/bulma.css",
 		"/C/Users/npaveling/Documents/LDA site/lda/style/mystyles.scss",
 		"/C/Users/npaveling/Documents/TAR/ethicsApp/memberLookup.cfm",
 		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonComplaint.cfm",
@@ -654,21 +597,11 @@
 		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addBroadcast.cfm",
 		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addGRIClass.cfm",
 		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addInstructorClass.cfm",
-		"/C/Users/npaveling/Documents/Metzo/myApps.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/index.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/disclaimer.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/checkout.cfm",
-		"/C/Users/npaveling/Documents/Metzo/sender.cfm",
-		"/C/Users/npaveling/Documents/Metzo/receiver.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/process.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/thankYou.cfm",
-		"//webprod/wwwroot/apps.texasrealestate.com/modules/legal/legalProduct/PropMgmtResource/thankYou.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/thankYou_sample.cfm",
-		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/view_document.cfm"
+		"/C/Users/npaveling/Documents/Metzo/myApps.cfm"
 	],
 	"find":
 	{
-		"height": 80.0
+		"height": 52.0
 	},
 	"find_in_files":
 	{
@@ -799,139 +732,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6399,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1873,
-								2566
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1928.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "services.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6723,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								65
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 432.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "fundedPrograms.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5897,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2815,
-								2815
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3056.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "ourTeam.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2733,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1195,
-								1195
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "contact.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2734,
+						"buffer_size": 6878,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2734,
-								2734
+								4125,
+								4125
 							]
 						],
 						"settings":
@@ -940,99 +758,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3696.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "js/script.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 765,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								738,
-								738
-							]
-						],
-						"settings":
-						{
-							"auto_name": "document.addEventListener('DOMContentLoaded', func",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "style/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2363,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2338,
-								2338
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 3780.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "style/bulma.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 223188,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1771,
-								1955
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4182.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1040,7 +769,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 54.0
+		"height": 52.0
 	},
 	"input":
 	{
@@ -1077,7 +806,7 @@
 	"project": "lda page.sublime-project",
 	"replace":
 	{
-		"height": 100.0
+		"height": 96.0
 	},
 	"save_all_on_build": true,
 	"select_file":
