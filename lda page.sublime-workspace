@@ -419,7 +419,15 @@
 			"file": "contact.html",
 			"settings":
 			{
-				"buffer_size": 6878,
+				"buffer_size": 6926,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "php/handler.php",
+			"settings":
+			{
+				"buffer_size": 392,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -465,8 +473,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/npaveling/Documents/LDA site/lda",
-		"/C/Users/npaveling/Documents/LDA site/lda/php"
+		"/C/Users/npaveling/Documents/LDA site/lda"
 	],
 	"file_history":
 	[
@@ -732,7 +739,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -741,15 +748,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6878,
+						"buffer_size": 6926,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4125,
-								4125
+								6780,
+								6780
 							]
 						],
 						"settings":
@@ -758,7 +765,35 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3696.0,
+						"translation.y": 5508.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "php/handler.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
