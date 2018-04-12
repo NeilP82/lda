@@ -212,15 +212,10 @@
 		            $btn.text('Sending ...');
 		        });
 
-		        var data = {
-				    name: $("#form_name").val(),
-				    email: $("#form_email").val(),
-				    message: $("#msg_text").val()
-				};
 				$.ajax({
               		type: "POST",
                 	url: 'php/handler.php',
-                	data: data,
+                	data = $(form).serialize(),
                 	success: after_form_submitted,
                 	
 	            });
