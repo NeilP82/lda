@@ -1,0 +1,1123 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"the",
+				"thead"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"is-",
+				"is-square"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"bott",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"Pa",
+				"padding-top"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"navba",
+				"navbar-item"
+			],
+			[
+				"nav",
+				"navbar-item"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"l",
+				"large"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"X",
+				"xx-large"
+			],
+			[
+				"on",
+				"onchange\tAttr"
+			],
+			[
+				"pane",
+				"panel-icon"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"resp",
+				"respondentInfo"
+			],
+			[
+				"F",
+				"FNAME"
+			],
+			[
+				"respo",
+				"respondent"
+			],
+			[
+				"cfels",
+				"cfelse\ttag (cfml)"
+			],
+			[
+				"remo",
+				"removeRespondent\tthis"
+			],
+			[
+				"arr",
+				"arrayLen\tfn (cfml)"
+			],
+			[
+				"res",
+				"respondentArray"
+			],
+			[
+				"arrayF",
+				"arrayFind\tfn (cfml)"
+			],
+			[
+				"ArrayDelete",
+				"arrayDeleteAt\tfn (cfml)"
+			],
+			[
+				"respon",
+				"respondentArray"
+			],
+			[
+				"Arra",
+				"arrayAppend\tfn (cfml)"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"is",
+				"is-centered"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"N",
+				"NumberFormat"
+			],
+			[
+				"city",
+				"CITY"
+			],
+			[
+				"A",
+				"ADDRESS_1"
+			],
+			[
+				"S",
+				"SHORT_NAME"
+			],
+			[
+				"mem",
+				"memberSearchResults"
+			],
+			[
+				"aja",
+				"ajaxEthicsMemberAccordion"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"sear",
+				"searchButton"
+			],
+			[
+				"CR",
+				"CRS_CODE"
+			],
+			[
+				"cfel",
+				"cfelse\ttag (cfml)"
+			],
+			[
+				"_Cl",
+				"_CLASS_END_AMPM"
+			],
+			[
+				"yyy",
+				"yyyy-mm-dd"
+			],
+			[
+				"_",
+				"_dateList"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"regis",
+				"registrationID"
+			],
+			[
+				"CL",
+				"CLASS_DATE"
+			],
+			[
+				"check",
+				"checkEmail"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"cl",
+				"columns"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"texasreal",
+				"texasrealestate"
+			],
+			[
+				"cfe",
+				"cfelse\ttag (cfml)"
+			],
+			[
+				"dateA",
+				"dateArray"
+			],
+			[
+				"listt",
+				"listToArray\tfn (cfml)"
+			],
+			[
+				"texasrea",
+				"texasrealtors"
+			],
+			[
+				"E",
+				"EMAIL"
+			],
+			[
+				"f",
+				"formfield\ttype"
+			],
+			[
+				"origi",
+				"originalLoggedInAs"
+			],
+			[
+				"Prop",
+				"PropMan"
+			],
+			[
+				"St",
+				"structAppend\tfn (cfml)"
+			],
+			[
+				"stru",
+				"structNew\tfn (cfml)"
+			],
+			[
+				"cus",
+				"cust_NO"
+			],
+			[
+				"memb",
+				"memberNumber"
+			],
+			[
+				"cfelse",
+				"cfelseif\ttag (cfml)"
+			],
+			[
+				"I",
+				"InfoCenterSubscription"
+			],
+			[
+				"cate",
+				"categorySub"
+			],
+			[
+				"categ",
+				"categoryID"
+			],
+			[
+				"seriali",
+				"serializeJSON\tfn (cfml)"
+			],
+			[
+				"COU",
+				"COURSE_DATE"
+			],
+			[
+				"NE",
+				"NEWPASSWORD"
+			],
+			[
+				"chec",
+				"checkPassword"
+			],
+			[
+				"SEri",
+				"serializeJSON\tfn (cfml)"
+			],
+			[
+				"COURSE",
+				"COURSE_CITY"
+			],
+			[
+				"Cl",
+				"CLASS_TIME"
+			],
+			[
+				"CLA",
+				"CLASS_START_AMPM"
+			],
+			[
+				"C",
+				"CUST_NO"
+			],
+			[
+				"Seri",
+				"serializeJSON\tfn (cfml)"
+			],
+			[
+				"mag",
+				"magPrint"
+			],
+			[
+				"b",
+				"booleanFormat\tdisplay.fn (cfml)"
+			],
+			[
+				"magP",
+				"magPref"
+			],
+			[
+				"cust",
+				"CUST_NO"
+			],
+			[
+				"ser",
+				"serializeJSON\tfn (cfml)"
+			],
+			[
+				"cours",
+				"courseData"
+			],
+			[
+				"CRS",
+				"CRS_CODE_DESC2"
+			],
+			[
+				"cRS",
+				"CRS_CODE_DESC"
+			],
+			[
+				"course",
+				"courseInfo"
+			],
+			[
+				"Stru",
+				"structNew\tfn (cfml)"
+			],
+			[
+				"isNu",
+				"isNumeric\tfn (cfml)"
+			],
+			[
+				"inst",
+				"instructorName"
+			],
+			[
+				"JS",
+				"serializeJSON\tfn (cfml)"
+			],
+			[
+				"cour",
+				"COURSE_NBR"
+			],
+			[
+				"find",
+				"findCourses"
+			],
+			[
+				"GRP_",
+				"GRP_CODE_DESC"
+			],
+			[
+				"cit",
+				"cityList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6399,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "services.html",
+			"settings":
+			{
+				"buffer_size": 6723,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fundedPrograms.html",
+			"settings":
+			{
+				"buffer_size": 5897,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ourTeam.html",
+			"settings":
+			{
+				"buffer_size": 2733,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contact.html",
+			"settings":
+			{
+				"buffer_size": 2734,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 765,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "document.addEventListener('DOMContentLoaded', func"
+			}
+		},
+		{
+			"file": "style/style.css",
+			"settings":
+			{
+				"buffer_size": 2363,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style/bulma.css",
+			"settings":
+			{
+				"buffer_size": 223188,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/npaveling/Documents/LDA site/lda",
+		"/C/Users/npaveling/Documents/LDA site/lda/css",
+		"/C/Users/npaveling/Documents/LDA site/lda/fonts",
+		"/C/Users/npaveling/Documents/LDA site/lda/img",
+		"/C/Users/npaveling/Documents/LDA site/lda/js",
+		"/C/Users/npaveling/Documents/LDA site/lda/Logo"
+	],
+	"file_history":
+	[
+		"/C/Users/npaveling/Documents/LDA site/lda/style/mystyles.scss",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/memberLookup.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonComplaint.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/complaint.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonEthicsApp/ethicsApp/anonymousForm.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonEthicsApp/ethicsApp/dist/remodal.js",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonEthicsApp/ethicsApp/dist/remodal.min.js",
+		"/C/Users/npaveling/Documents/TAR/CustomTags/member_info.cfm",
+		"/C/Users/npaveling/Documents/TAR/apiEndpoint/memberInfo.cfm",
+		"/C/Users/npaveling/Documents/TAR/apiEndpoint/designations.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/scripts/scripts.js",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addNewClass.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addClassScript.js",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/ajaxEthicsMemberAccordion.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonEthicsApp/ethicsApp/ajax.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/css/main.css",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonEthicsApp/ethicsApp/index.cfm",
+		"/C/Users/npaveling/Documents/TAR/ethicsApp/anonEthicsApp/ethicsApp/ajaxEthicsMemberSearch.cfm",
+		"/C/Users/npaveling/AppData/Local/Temp/scp05347/var/www/html/modules/ethicsApp/form.cfm",
+		"//webprod/ColdFusion10/cfusion/CustomTags/committee_officer.cfm",
+		"/C/Users/npaveling/Documents/TAR/CustomTags/committeeAccessFlag.cfm",
+		"/C/Users/npaveling/Documents/TAR/apiEndpoint/committees.cfm",
+		"//webprod/ColdFusion10/cfusion/CustomTags/committeeAccessFlag.cfm",
+		"/C/Users/npaveling/Documents/TAR/CustomTags/committeeLockedFlag.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/customTagAux/ajax/ajaxGrouperMemberSearch.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/customTagAux/ajax/ajaxAssociatedUser.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/userAdmin/process.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/userAdmin/index.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/omni/appadmin/sec_levels.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/omni/appadmin/index.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/omni/appadmin/app_access.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/omni/appadmin/process.cfm",
+		"/C/Users/npaveling/Documents/TAR/CustomTags/member_info_MemberNumber.cfm",
+		"/C/Users/npaveling/AppData/Local/Temp/scp09770/var/www/html/customTagAux/ajax/ajax.cfm",
+		"/C/Users/npaveling/Documents/Metzo/member_info.cfm",
+		"/C/Users/npaveling/Documents/Metzo/apiEndpoints/coursesearchPOSTTest.cfm",
+		"/C/Users/npaveling/Documents/Metzo/apiEndpoints/courseparamsTest.cfm",
+		"/C/Users/npaveling/Documents/Metzo/apiEndpoints/loginPOST.cfm",
+		"/C/Users/npaveling/Documents/Metzo/memberInfo.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/MR/Education/Find/index.cfm",
+		"/C/Users/npaveling/Documents/Metzo/apiEndpoints/courseparams.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/loginAs.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/apiEndpoint/login.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/apiEndpoint/memberInfo.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/apiEndpoint/loginPOST.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/apiEndpoint/zipformupdate_POST.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/loginAsTest.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/loginAs - Backup.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/intranet/module/validate.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/intranet/module/login.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/intranet/module/sso.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/omni/trex/index-wp.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/scheduler/certificateEmails/certificateEmail.cfm",
+		"/C/Users/npaveling/Documents/Metzo/coursesearch.cfm",
+		"/C/Users/npaveling/Documents/Metzo/courseinfoTest.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/AB/Committees/PIC.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/AB/Committees/Trustees.cfm",
+		"/C/Users/npaveling/Documents/Metzo/committees.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/application.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/omni/index.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/omni/trex/index.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/omni/trex/abor/index.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/application.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/header.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/appSecurity.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/main/variables.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/main/membervariables.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/sessionManagment.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/AB/Committees/RCA.cfm",
+		"/C/Users/npaveling/Documents/Metzo/committee_officers.cfm",
+		"/C/Users/npaveling/Documents/Metzo/coursesearchTest.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/omni/trex/application.cfm",
+		"/C/Users/npaveling/Documents/Metzo/committeesTest.cfm",
+		"/C/Users/npaveling/Documents/Metzo/ethics/index.cfm",
+		"/C/Users/npaveling/Documents/Metzo/ethics/problem_tips.cfm",
+		"/C/Users/npaveling/Documents/Metzo/ethics/fileComplaint.cfm",
+		"/C/Users/npaveling/Documents/Metzo/ethics/ajaxFileComplaint.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/CSSjordan/ckeditor.css",
+		"/C/Users/npaveling/Documents/Metzo/ethics/importantinfo.cfm",
+		"/C/Users/npaveling/Documents/Metzo/password_change.cfm",
+		"/C/Users/npaveling/Documents/Metzo/courseinfo.cfm",
+		"/C/Users/npaveling/Documents/Metzo/webActivation.cfm",
+		"/C/Users/npaveling/Documents/Metzo/registrationPOST.cfm",
+		"/C/Users/npaveling/Documents/Metzo/resendRegEmails.cfm",
+		"/C/Users/npaveling/Documents/Metzo/registration.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/resendRegEmails.cfm",
+		"/C/Users/npaveling/Documents/Metzo/login.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/ethicsApp/index.cfm",
+		"/C/Users/npaveling/Documents/Metzo/index.cfm",
+		"/C/Users/npaveling/Documents/LDA site/sayHello.php",
+		"/C/Users/npaveling/AppData/Local/Temp/Temp1_bulma-0.6.2.zip/bulma-0.6.2/css/bulma.css",
+		"/C/Users/npaveling/Documents/LDA site/index.html",
+		"/C/Users/npaveling/Documents/LDA site/team.html",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/ga/LegislativeScorecard/index.cfm",
+		"/C/Users/npaveling/Documents/LDA site/programs.html",
+		"/C/Users/npaveling/Documents/LDA site/.htaccess",
+		"/C/Users/npaveling/Documents/LDA site/layoutScript.js",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART3/style.css",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART3/test.cfm",
+		"/C/Users/npaveling/Documents/LDA site/sayHello.html",
+		"/C/Users/npaveling/Downloads/.htaccess",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/executive/aeDashboard/index.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/main/membervariables.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/education/CART/addBroadcast.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/education/CART/addGRIClass.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/education/CART/addInstructorClass.cfm",
+		"//WEBPROD/wwwroot/apps.texasrealestate.com/modules/education/CART/addNewClass.cfm",
+		"//webprod/ColdFusion10/cfusion/wwwroot/WEB-INF/web.xml",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/executive/aeDashboard/indexTest.cfm",
+		"//webprod/ColdFusion10/cfusion/CustomTags/member_info.cfm",
+		"/C/Users/npaveling/Documents/Metzo/redirect.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/executive/aeDashboard/index.cfm alias",
+		"//webprod/ColdFusion10/cfusion/wwwroot/crossdomain.xml",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addClass.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addBroadcast.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addGRIClass.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/education/CART/addInstructorClass.cfm",
+		"/C/Users/npaveling/Documents/Metzo/myApps.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/index.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/disclaimer.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/checkout.cfm",
+		"/C/Users/npaveling/Documents/Metzo/sender.cfm",
+		"/C/Users/npaveling/Documents/Metzo/receiver.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/process.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/thankYou.cfm",
+		"//webprod/wwwroot/apps.texasrealestate.com/modules/legal/legalProduct/PropMgmtResource/thankYou.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/thankYou_sample.cfm",
+		"/C/Users/npaveling/Documents/Metzo/PropMgmtResource/view_document.cfm"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+			"C:\\Users\\npaveling\\Documents\\LDA site\\lda\\img"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"burger",
+			"*.png",
+			".navbar ",
+			".nav ",
+			"nav ",
+			"nav",
+			"dave",
+			"Dave",
+			"dave",
+			"Dave",
+			"    \t",
+			">\t",
+			">\n",
+			"name",
+			"preventDefault",
+			">\n",
+			"checkclear",
+			"searchForGroupMember",
+			"}",
+			"searchForGroupMember",
+			"containMemberList",
+			"memberInfo",
+			"monthVar",
+			"checkSubmit",
+			"staffMemberNumber",
+			"giveAccess",
+			"ajaxFunctionSendAccess",
+			"processAccess",
+			"getComplaintant",
+			"post",
+			"ajaxFunctionReload2",
+			"URL",
+			"loginAsMemberNumber",
+			"TARINTRAUSERID",
+			"TARINTRAUSERID ",
+			"education@trec.texas.gov",
+			"continueAnonymously",
+			"continueRespondent",
+			"continueAnonymously",
+			"##modal",
+			"url",
+			"gap",
+			"NotationMessage",
+			"aeMessage",
+			"96",
+			"processPageURL",
+			"_processPageURL",
+			"X-Frame-Options",
+			"stay",
+			">\n",
+			"^",
+			"#membershipDB#",
+			"#sqldb#",
+			"sqldb",
+			"#sqldb#",
+			"originalLoggedInAd",
+			"ad",
+			"#\">\n",
+			"memberuserid",
+			"session.membership.memberNumber",
+			"memberuserid",
+			"memberUserID",
+			"memberuserid",
+			"memberuserif",
+			">",
+			"membershipDB",
+			"#membershipDB#",
+			"</cfscript>",
+			"#session.member.memberNumber#",
+			"#session.member.membernumber#",
+			"#session.member.memberNumber#",
+			"'#session.member.membernumber#'",
+			"memberNumber",
+			"#sqldb#",
+			"#membershipDB#",
+			"#sqldb#",
+			"19",
+			"LONG_DESC",
+			"registration",
+			"_date",
+			">\n",
+			"mce"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FORM",
+			"documents@trec.texas.gov",
+			"form",
+			"sqlmembership",
+			"sqlweb",
+			"sqldb",
+			"session.member.memberNumber",
+			"session.membership.memberNumber",
+			"sqlmembership",
+			"membershipDB",
+			";</cfscript>",
+			"#url.cust_NO#",
+			"#memberUserID#",
+			"'#session.member.memberNumber#'",
+			"sqlweb",
+			"sqlmembership"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1873,
+								2566
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1928.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "services.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fundedPrograms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2815,
+								2815
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3056.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ourTeam.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1195,
+								1195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2734,
+								2734
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"auto_name": "document.addEventListener('DOMContentLoaded', func",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "style/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2338,
+								2338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3780.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "style/bulma.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223188,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1771,
+								1955
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4182.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lda page.sublime-project",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
