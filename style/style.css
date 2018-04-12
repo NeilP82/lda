@@ -14,7 +14,7 @@ html,body {
     background-size: cover;
 	margin:0;
 	padding: 0;
-	height:500px;
+	height:470px;
 	position: relative;	
 
 		
@@ -22,9 +22,18 @@ html,body {
 
 .header.what-we-do{
     background: url('../img/what-we-do.jpg') no-repeat center;
+}
+
+.header.contact{
+    background: url('../img/contact.jpg') no-repeat center;
+}
 
 
-		
+.header.our-team{
+    background: url('../img/our-team.jpg') no-repeat center;
+}
+    .header.funded{
+    background: url('../img/grant.jpg') no-repeat center;		
 }
 .level-item.has-text-centered{
 	position: relative	;
@@ -79,7 +88,7 @@ p.caption {
 	color: #244674;
 }
 
-div.card {
+div.card.tile {
 	background-color: #244674;
 
 }
@@ -99,7 +108,7 @@ div.card {
 
 					
 }
-.content {
+section.content {
 	padding-top: 	75px;
 }
 
@@ -138,5 +147,23 @@ table, tbody, tr, thead, td{
 	font-family: Raleway-Regular;
 
 }
+strong {
+	font-family: Raleway-Bold;
+	color: #244674;
+	font-size: 	30px;
+}
+
+p {
+	font-family: Raleway-Regular;
+	color: #244674;
+	font-size: 	25px;
+}
+
+p.card-text {
+	font-family: Raleway-Regular;
+	color: #244674;
+	font-size: medium;
+	}
+
 /* CSS Document */
 

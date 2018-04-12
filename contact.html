@@ -6,7 +6,6 @@
 
 		<link href="style/bulma.css" rel="stylesheet" type="text/css">
 		<link href="style/style.css" rel="stylesheet" type="text/css">
-
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
 		<script src="js/script.js"></script>
 
@@ -49,18 +48,88 @@
 		  	</div>
 		</nav>
 		<section>
-			<div class="header">
+			<div class="header contact">
 				<div class="level-item has-text-centered">
 					<p class="header-text">
-						Our company provides grant writing, editing, and management services to private and public sector clients in the U.S. and Canada.
+						Contact the Learn Design Apply Team for further information
 					</p>
 					</div>
 					<div class="header-button-container">
-					<a class="button header-button" href="index.html#LearnMore">LEARN MORE</a>
+					<a class="button header-button" href="#LearnMore">LEARN MORE</a>
 				</div>
 			</div>
 		</section>
+		<section>
+			<div class="columns is-centered" style="padding-top: 50px; padding-bottom: 50px;">
+				<div class="column is-2">
+					<figure class="image is-square">
+						<img src="img/learn.png">
+					</figure>
+					<p class="caption">LEARN</p>
+				</div>
+				<div class="column	is-1">
+				</div>
+				<div class="column is-2">
+					<figure class="image is-square">
+						<img src="img/design.png">
+					</figure>
+					<p class="caption">DESIGN</p>
+				</div>
+				<div class="column	is-1">
+				</div>
+				<div class="column is-2">
+					<figure class="image is-square">
+						<img src="img/apply.png">
+					</figure>
+					<p class="caption">APPLY</p>
+				</div>
+				</div>
+			</div>
+		</section>
+		<section id="LearnMore" class="content">
+			<div class="columns is-centered">
+				<h1 class="title is-1">
+					Services Provided:
+				</h1>
+			</div>
+			<div class="columns is-centered">
+				<div class="column is-6">
+			<div class="field">
+  				<form action="mailto:neilpaveling@hotmail.com" method="post" enctype="text/plain">
+  					<label class="label">Name</label>
+  					<div class="control">
+    					<input class="input" type="text" placeholder="Enter Name" required>
+  					</div>
+			</div>
 
+			<div class="field">
+  				<label class="label">Email</label>
+  					<div class="control">
+    					<input class="input" type="email" placeholder="Enter Email" required>
+    					
+  					</div>
+  				<div id="warning" hidden>
+  					<p class="help is-danger" d>This email is invalid</p>
+  				</div>
+			</div>
+
+			<div class="field">
+  				<label class="label">Message</label>
+  				<div class="control">
+    				<textarea class="textarea" placeholder="Enter Your Message" required=""></textarea>
+  				</div>
+			</div>
+
+			<div class="field is-grouped">
+  				<div class="control">
+    				<button class="button is-link">Send Email</button>
+  				</div>
+		</div>
+	</form>
+</div>
+</div>
+</div>
+</section>
 
 		<section style="padding-top: 100px;">	
 			<nav class="navbar bottom">
